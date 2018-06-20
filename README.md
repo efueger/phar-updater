@@ -390,3 +390,4 @@ you create a new git tag. If you use git tagging, you can go to the matching
 release on Github, click the `Edit` button and attach files. It's recommended to
 do this as soon as possible after tagging to limit the window whereby a new
 release exists without an updated phar attached.
+
